@@ -1,0 +1,9 @@
+name: star-2.6
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - star=2.6.1d=0
+prefix: /shared/mfs/data/software/miniconda/envs/star-2.6
+
